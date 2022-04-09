@@ -11,7 +11,7 @@
     "material-ui": "^0.20.2",
     "material-ui-background": "^0.1.2",
     "mdbreact": "^4.8.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "react": "^16.6.3",
     "react-big-calendar": "^0.20.2",
     "react-big-calendar-like-google": "0.0.3",
